@@ -76,8 +76,9 @@ My name is Uche Ofia, aka Cofucan. I am a Full Stack Developer, Data Analyst, De
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cofucan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofucan&count_private=true&show_icons=true&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cofucan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofucan&count_private=true&hide_border=true&show_icons=true&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cofucan&layout=compact&hide=html&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cofucan/cofucan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
