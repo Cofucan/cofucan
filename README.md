@@ -74,7 +74,7 @@ My name is Uche Ofia, aka Cofucan. I am a Full Stack Developer, Data Analyst, De
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cofucan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cofucan&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofucan&count_private=true&hide_border=true&show_icons=true&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
 <br>
