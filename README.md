@@ -35,12 +35,12 @@
 My name is Uche Ofia, aka Cofucan. I am a Full Stack Developer, Data Analyst, Designer and Gamer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, located in Nigeria. I was a graphics designer and 3D artist for many years before moving into software development.
 
 - 🔭 I’m currently working on full stack web projects using Python frameworks and HTML/CSS/JS
-- 🌱 I’m also working on Exploratory Data Analysis projects using Python and SQL as well as Data Vizualization with Tableau and Excel
-- 🌱 I’m currently taking a nanodegree on Data Analytics in Udacity sponsored by ALX-Africa
-- 🌱 I’m also taking the Google Data Analytics Specialization on Coursera
+- :game_die: I’m also working on Exploratory Data Analysis projects using Python and SQL as well as Data Vizualization with Tableau and Excel
+- :kite: I’m currently taking a nanodegree on Data Analytics in Udacity sponsored by ALX-Africa
+- :ladder: Also taking the Google Data Analytics Specialization on Coursera
 - 👯 I’m looking to collaborate on web dev projects, especially looking for Product Designers who can create Hi-Fi designs and prototypes, which I can then implement on the frontend and backend
-- 🤔 I’m looking looking to also learn other languages and frameworks, specifically React, TypeScript (for frontend development) and Rust (as a low level language)
-- 😄 I am a seller on Fiverr where I create spreadsheets for businesses to manage their data and inventory
+- 🤔 I am also learning other languages and frameworks, specifically React, TypeScript (for frontend development) and Rust (as a low level language)
+- :white_check_mark: I am a seller on Fiverr where I create spreadsheets for businesses to manage their data and inventory
 - 💬 At the moment, I am open to remote jobs and internship opportunities
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cofucan) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coolucheofia@gmail.com)
 
@@ -70,6 +70,15 @@ My name is Uche Ofia, aka Cofucan. I am a Full Stack Developer, Data Analyst, De
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cofucan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofucan&count_private=true&show_icons=true&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cofucan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Cofucan/cofucan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -79,12 +88,4 @@ Here are some ideas to get you started:
 
 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
