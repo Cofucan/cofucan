@@ -36,8 +36,6 @@ My name is Uche Ofia, aka Cofucan. I am a Full Stack Developer, Data Analyst, De
 
 - 🔭 I’m currently working on full stack web projects using Python frameworks and HTML/CSS/JS
 - :game_die: I’m also working on Exploratory Data Analysis projects using Python and SQL as well as Data Vizualization with Tableau and Excel
-- :kite: I’m currently taking a nanodegree on Data Analytics in Udacity sponsored by ALX-Africa
-- :ladder: Also taking the Google Data Analytics Specialization on Coursera
 - 👯 I’m looking to collaborate on web dev projects, especially looking for Product Designers who can create Hi-Fi designs and prototypes, which I can then implement on the frontend and backend
 - 🤔 I am also learning other languages and frameworks, specifically React, TypeScript (for frontend development) and Rust (as a low level language)
 - :white_check_mark: I am a seller on Fiverr where I create spreadsheets for businesses to manage their data and inventory
