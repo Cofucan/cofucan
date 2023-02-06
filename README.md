@@ -36,7 +36,7 @@ My name is Uche Ofia, aka Cofucan. I am a Software Engineer, Data Analyst, Desig
 
 - 🔭 I’m currently working on full stack web projects using Python frameworks and HTML/CSS/JS
 - :game_die: I’m also working on Exploratory Data Analysis projects using Python and SQL as well as Data Vizualization with Tableau and Excel
-- :white_check_mark: I am a seller on Fiverr where I create spreadsheets for businesses to manage their data and inventory
+- :white_check_mark: I am a seller on [Fiverr](https://www.fiverr.com/cooluche) where I create spreadsheets for businesses to manage their data and inventory
 - 💬 At the moment, I am open to remote jobs and internship opportunities
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cofucan) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coolucheofia@gmail.com)
 
