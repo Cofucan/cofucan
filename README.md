@@ -32,17 +32,15 @@
 
 ### :man_technologist: About Me :
 
-My name is Uche Ofia, aka Cofucan. I am a Full Stack Developer, Data Analyst, Designer and Gamer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, located in Nigeria. I was a graphics designer and 3D artist for many years before moving into software development.
+My name is Uche Ofia, aka Cofucan. I am a Software Engineer, Data Analyst, Designer and Gamer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, located in Nigeria. I was a graphics designer and 3D artist for many years before moving into software development.
 
 - 🔭 I’m currently working on full stack web projects using Python frameworks and HTML/CSS/JS
 - :game_die: I’m also working on Exploratory Data Analysis projects using Python and SQL as well as Data Vizualization with Tableau and Excel
-- 👯 I’m looking to collaborate on web dev projects, especially looking for Product Designers who can create Hi-Fi designs and prototypes, which I can then implement on the frontend and backend
-- 🤔 I am also learning other languages and frameworks, specifically React, TypeScript (for frontend development) and Rust (as a low level language)
 - :white_check_mark: I am a seller on Fiverr where I create spreadsheets for businesses to manage their data and inventory
 - 💬 At the moment, I am open to remote jobs and internship opportunities
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cofucan) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coolucheofia@gmail.com)
 
-- ⚡ Fun fact: When I'm not solving real-world problems, I solve "gaming problems" online and offline. I enjoy everything from sports games (i.e. PES) to hardcore games (i.e. Soulsbourne games like Dark Souls and Sekiro).
+- ⚡ I play video games in my spare time.
 
 ---
 
