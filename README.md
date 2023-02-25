@@ -32,7 +32,7 @@
 
 ### :man_technologist: About Me :
 
-My name is Uche Ofia, aka Cofucan. I am a Software Engineer, Data Analyst, Designer and Gamer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, located in Nigeria. I was a graphics designer and 3D artist for many years before moving into software development.
+My name is Uche Ofia, aka Cofucan. I am a Software Engineer, Data Analyst, Designer and Gamer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I was a graphics designer and 3D artist for many years before moving into software development.
 
 - 🔭 I’m currently working on full stack web projects using Python frameworks and HTML/CSS/JS
 - :game_die: I’m also working on Exploratory Data Analysis projects using Python and SQL as well as Data Vizualization with Tableau and Excel
