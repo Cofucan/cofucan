@@ -32,6 +32,7 @@
 
 ### :man_technologist: About Me :
 
+```py
 class Profile():
     def __init__(self):
         self.name = "Uche Ofia"
@@ -44,6 +45,7 @@ class Profile():
         self.degree = "Electrical & Electronics Engineering"
         self.linkedin = "https://www.linkedin.com/in/cofucan"
         self.twitter = "@coolucheofia"
+```
 
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cofucan) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coolucheofia@gmail.com)
 
