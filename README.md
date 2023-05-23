@@ -82,7 +82,7 @@ class Profile():
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cofucan&theme=github-dark&hide_border=true)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cofucan&theme=modern-lilac&card_width=550)](https://git.io/streak-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofucan&count_private=true&hide_border=true&show_icons=true&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofucan&count_private=true&hide_border=true&show_icons=true&theme=monokai&)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cofucan&layout=compact&hide=html&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
