@@ -80,7 +80,8 @@ class Profile():
 ### :fire: My Stats :
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cofucan&theme=github-dark&hide_border=true)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cofucan&theme=modern-lilac&card_width=550)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Cofucan&theme=modern-lilac&card_width=550)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cofucan&theme=bear)](https://git.io/streak-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofucan&count_private=true&hide_border=true&show_icons=true&theme=monokai&bg_color=00000000&)](https://github.com/anuraghazra/github-readme-stats)
 <br>
