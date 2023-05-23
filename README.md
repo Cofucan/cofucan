@@ -50,10 +50,6 @@ class Profile():
         self.twitter = "@coolucheofia"
 ```
 
-- 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cofucan) or 
-
-- ⚡ I play video games in my spare time.
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
