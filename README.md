@@ -32,12 +32,19 @@
 
 ### :man_technologist: About Me :
 
-My name is Uche Ofia, aka Cofucan. I am a Software Engineer, Data Analyst, Designer and Gamer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I was a graphics designer and 3D artist for many years before moving into software development.
+class Profile():
+    def __init__(self):
+        self.name = "Uche Ofia"
+        self.email = "coolucheofia@gmail.com"
+        self.country = "Nigeria"
+        self.title = "Software Engineer"
+        self.other_titles = ["Data Analyst", "Graphics Designer"]
+        self.languages = ["Python", "C/C++", "Rust", "Javascript", "SQL", "HTML/CSS"]
+        self.software = ["Excel", "Illustrator", "Blender"]
+        self.degree = "Electrical & Electronics Engineering"
+        self.linkedin = "https://www.linkedin.com/in/cofucan"
+        self.twitter = "@coolucheofia"
 
-- 🔭 I’m currently working on full stack web projects using Python frameworks and HTML/CSS/JS
-- :game_die: I’m also working on Exploratory Data Analysis projects using Python and SQL as well as Data Vizualization with Tableau and Excel
-- :white_check_mark: I am a seller on [Fiverr](https://www.fiverr.com/cooluche) where I create spreadsheets for businesses to manage their data and inventory
-- 💬 At the moment, I am open to remote jobs and internship opportunities
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cofucan) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coolucheofia@gmail.com)
 
 - ⚡ I play video games in my spare time.
