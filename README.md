@@ -42,6 +42,7 @@ class Profile():
         self.email = "coolucheofia@gmail.com"
         self.country = "Nigeria"
         self.title = "Software Engineer"
+        self.specilization = {"Backend", "APIs", "Database"}
         self.other_titles = ["Data Analyst", "Graphics Designer"]
         self.languages = ["Python", "C/C++", "Rust", "Javascript", "SQL", "HTML/CSS"]
         self.software = ["Excel", "Illustrator", "Blender"]
