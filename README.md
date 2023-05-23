@@ -19,16 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=cofucan&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-<div id="header" align="center">
-  <h2> Hello and 
-  <img src="https://media.giphy.com/media/kH0raxQIAvPIHfnTia/giphy.gif" width="100"/> 
-  to my GitHib profile. <br>
-   </h2>
-</div>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="450"/>
+  <img src="https://github.com/nurofsun/nurofsun/raw/master/images/cover.png" width="600" height="450"/>
 </div>
 
 ---
