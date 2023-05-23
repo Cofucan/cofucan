@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/nurofsun/nurofsun/raw/master/images/cover.png" width="900" height="450"/>
+  <img src="https://github.com/nurofsun/nurofsun/raw/master/images/cover.png" width="900" height="350"/>
 </div>
 
 ---
