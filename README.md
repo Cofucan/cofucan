@@ -34,10 +34,10 @@ class Profile():
         self.email = "coolucheofia@gmail.com"
         self.country = "Nigeria"
         self.title = "Software Engineer"
-        self.specilization = {"Backend", "APIs", "Database"}
+        self.specilization = {"Backend", "APIs", "Database", "Servers"}
         self.other_titles = ["Data Analyst", "Graphics Designer"]
-        self.languages = ["Python", "C/C++", "Rust", "Javascript", "SQL", "HTML/CSS"]
-        self.software = ["Excel", "Illustrator", "Blender"]
+        self.languages = ["Python", "C/C++", "Bash", "Rust", "Javascript", "SQL", "HTML/CSS"]
+        self.other_software = ["Excel", "Illustrator", "Blender"]
         self.degree = "Electrical & Electronics Engineering"
         self.linkedin = "https://www.linkedin.com/in/cofucan"
         self.twitter = "@coolucheofia"
