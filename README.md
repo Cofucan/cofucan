@@ -5,13 +5,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/cofucan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:coolucheofia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://twitter.com/coolucheofia">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-indigo?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -34,7 +34,7 @@ class Profile():
         self.email = "coolucheofia@gmail.com"
         self.country = "Nigeria"
         self.title = "Software Engineer"
-        self.specilization = {"Backend", "APIs", "Database", "Servers"}
+        self.specialization = {"Backend", "APIs", "Database", "Servers"}
         self.other_titles = ["Data Analyst", "Graphics Designer"]
         self.languages = ["Python", "C/C++", "Bash", "Rust", "Javascript", "SQL", "HTML/CSS"]
         self.other_software = ["Excel", "Illustrator", "Blender"]
