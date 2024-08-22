@@ -29,11 +29,17 @@
 ### :man_technologist: About Me :
 
 **Name**: Uche Ofia
+
 **Email**: coolucheofia@gmail.com
+
 **Title**: Software Engineer
+
 **Specialization**: Backend Development, APIs, Database Management, Server Administration
+
 **Other Roles**: Fullstack Developer, Data Analyst
+
 **Technologies**: Python, PHP, C/C++, PHP, Rust, JavaScript, SQL, HTML/CSS, Bash
+
 **Degree**: B.Eng. in Electrical & Electronics Engineering
 
 ---
