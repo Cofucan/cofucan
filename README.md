@@ -28,21 +28,13 @@
 
 ### :man_technologist: About Me :
 
-```py
-class Profile():
-    def __init__(self):
-        self.name = "Uche Ofia"
-        self.email = "coolucheofia@gmail.com"
-        self.country = "Nigeria"
-        self.title = "Software Engineer"
-        self.specialization = {"Backend", "APIs", "Database", "Servers"}
-        self.other_titles = ["Data Analyst", "Graphics Designer"]
-        self.languages = ["Python", "C/C++", "PHP", "Rust", "Javascript", "SQL", "HTML/CSS", "Bash"]
-        self.other_software = ["Excel", "Illustrator", "Blender"]
-        self.degree = "Electrical & Electronics Engineering"
-        self.linkedin = "https://www.linkedin.com/in/cofucan"
-        self.twitter = "@coolucheofia"
-```
+**Name**: Uche Ofia
+**Email**: coolucheofia@gmail.com
+**Title**: Software Engineer
+**Specialization**: Backend Development, APIs, Database Management, Server Administration
+**Other Roles**: Fullstack Developer, Data Analyst
+**Technologies**: Python, PHP, C/C++, PHP, Rust, JavaScript, SQL, HTML/CSS, Bash
+**Degree**: B.Eng. in Electrical & Electronics Engineering
 
 ---
 
